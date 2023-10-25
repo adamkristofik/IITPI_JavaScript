@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+  }
+  
+  p {
+    text-align: center;
+    width: 100%;
+    font-size: 2rem;
+  }
+  
+  .parent {
+    background-image: url(sosholic.jfif);
+  }
+  
+  .ramik {
+    border: 2px solid black;
+  }
+
+
+
+
