@@ -2,12 +2,12 @@
 
 
 //const druhaPremenna = 7;
-let a = 15 + 3 * (4-8/2);
-let b = 150.2/8 *(18,3 -20.1)/3;
-let c = 3**2 + 8 - (31/8);
-alert(a)
-alert(b)
-alert(c)
+//let a = 15 + 3 * (4-8/2);
+//let b = 150.2/8 *(18,3 -20.1)/3;
+//let c = 3**2 + 8 - (31/8);
+//alert(a)
+//alert(b)
+//alert(c)
 
 
 
@@ -33,3 +33,9 @@ alert(c)
 //let vysledokScitania = prvaPremenna + druhaPremenna;
 
 //vysledok(meno);
+
+
+
+let mojVek= 18;
+let mojeMeno= "Adam Kristofik";
+let adresaSkoly= "Námestie sv.Martina 5 908 51 Holíč";
